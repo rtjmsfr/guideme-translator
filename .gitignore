@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Model cache (huge)
+m2m_model/
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
