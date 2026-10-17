@@ -156,3 +156,8 @@ guideme-translator/
 ├── README.md
 └── m2m_model/         # Model cache (created on first run, git-ignored)
 ```
+
+## Related Repos
+
+- [guideme-app](https://github.com/rtjmsfr/guideme-app) — the main Flutter app
+- [guideme-recsys](https://github.com/rtjmsfr/guideme-recsys) — recommendation service
