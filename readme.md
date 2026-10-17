@@ -147,12 +147,12 @@ Examples:
 | Russian              | `ru` |
 
 ---
-
 ## 🗂 Directory Structure
 
 ```css
-fastapi-m2m-translator/
+guideme-translator/
 ├── main.py
+├── requirements.txt
 ├── README.md
-└── m2m_model/         # Model cache directory (created on first run)
+└── m2m_model/         # Model cache (created on first run, git-ignored)
 ```
